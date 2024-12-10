@@ -14,6 +14,9 @@ public class Factorial_Number {
 		}
 
 		System.out.println(factorial);
+		
+		
+		System.out.println("Fucking1");
 
 	}
 
