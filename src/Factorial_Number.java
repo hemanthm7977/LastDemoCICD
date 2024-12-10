@@ -22,7 +22,7 @@ public class Factorial_Number {
 		System.out.println("Fucking2 - From GitX");
 		
 		
-		System.out.println("From Demo - Develop");
+		System.out.println("From Demo - Develop787");
 
 	}
 
