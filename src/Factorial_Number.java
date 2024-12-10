@@ -17,6 +17,9 @@ public class Factorial_Number {
 		
 		
 		System.out.println("Fucking1");
+		
+		
+		System.out.println("Fucking2 - From GitX");
 
 	}
 
